@@ -33,7 +33,7 @@ go mod tidy
 ```
 - Run the Test ( this will run terraform init, apply, output and destroy and it will pass if we have the right tagging )
 ```bash
-go test -v -run TestTerraformAwsExample
+go test -v -run TestTerraformAwsFlugel 
 ```
 
 
