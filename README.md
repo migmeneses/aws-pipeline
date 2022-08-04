@@ -1,4 +1,3 @@
-# flugel-it
 # TEST N.1
 
 ## Terraform Code
